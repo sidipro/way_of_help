@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Antho
+          Learn React Anthonin
         </a>
       </header>
     </div>
