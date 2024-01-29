@@ -6,7 +6,7 @@ on:
       - "dev"
 
 jobs: 
-  build:
+  pullrequest:
     runs-on: ubuntu-latest
 
     steps:
